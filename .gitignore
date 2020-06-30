@@ -1,0 +1,16 @@
+*.pyc
+*.egg-info
+*.orig
+*.swp
+*.pem
+*.csv
+*.save
+*.tmp
+
+.env/*
+.eggs/*
+.idea/*
+res/*
+
+build
+dist
